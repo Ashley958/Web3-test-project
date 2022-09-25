@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+# The following is the website
+# https://buymeacoffee-solidity-defi-tipping-app.ashhh123.repl.co/
